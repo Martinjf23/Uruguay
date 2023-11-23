@@ -1,0 +1,1 @@
+var json_Capital_8 = {"type":"FeatureCollection","name":"Capital_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nombre":"MONTEVIDEO","Total de p":"1318755","Año de fu":1726.0,"Idioma pri":"Español","Moneda":"Peso uruguayo"},"geometry":{"type":"Point","coordinates":[-56.1850972719,-34.905482901]}}]}
